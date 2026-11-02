@@ -18,7 +18,7 @@
 
 Soy **Ali David Moron**, conocido como **DeiVid**. Soy DJ crossover: en mis sets mezclo todos los géneros para que nadie se quede quieto. Pertenezco a **3AM Trap Music** y soy owner de **SoundWave.com.co**, una plataforma de música para DJs.
 
-Estudio **Ingeniería de Sonido** en la **Universidad de San Buenaventura**, sede San Benito. La música es mi vida y la estoy convirtiendo en mi carrera.
+Estudio **Ingeniería de Sonido** en la **Universidad de San Buenaventura**, sede San Benito. Music is my life
 
 ---
 
