@@ -1,26 +1,24 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="230" viewBox="0 0 1200 230">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220">
+  <!-- ===== DISEÑO DEL FONDO (no hace falta tocarlo) ===== -->
   <defs>
     <linearGradient id="fondo" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#7F00FF"><animate attributeName="stop-color" values="#7F00FF;#B000FF;#7F00FF" dur="6s" repeatCount="indefinite"/></stop>
-      <stop offset="100%" stop-color="#E100FF"><animate attributeName="stop-color" values="#E100FF;#FF4FD8;#E100FF" dur="6s" repeatCount="indefinite"/></stop>
+      <stop offset="0%" stop-color="#7F00FF"/>
+      <stop offset="100%" stop-color="#E100FF"/>
     </linearGradient>
   </defs>
-  <rect width="1200" height="230" fill="url(#fondo)"/>
-  <g opacity="0.35">
-    <path d="M0 180 C 150.0 158, 450.0 202, 600 180 C 750.0 158, 1050.0 202, 1200 180 C 1350.0 158, 1650.0 202, 1800 180 C 1950.0 158, 2250.0 202, 2400 180 L 2400 260 L 0 260 Z" fill="#0d1117">
-      <animateTransform attributeName="transform" type="translate" from="0 0" to="-600 0" dur="7s" repeatCount="indefinite"/>
-    </path>
-  </g>
-  <path d="M0 192 C 200.0 176, 600.0 208, 800 192 C 1000.0 176, 1400.0 208, 1600 192 C 1800.0 176, 2200.0 208, 2400 192 L 2400 260 L 0 260 Z" fill="#0d1117">
-    <animateTransform attributeName="transform" type="translate" from="-800 0" to="0 0" dur="10s" repeatCount="indefinite"/>
+  <style>
+    .nombre { font: 800 58px 'Segoe UI', Helvetica, Arial, sans-serif; fill: #ffffff; animation: aparecer 1.5s ease-out both; }
+    .sub { font: 600 24px 'Segoe UI', Helvetica, Arial, sans-serif; fill: #ffffff; animation: aparecer 1.5s ease-out 0.5s both; }
+    @keyframes aparecer { from { opacity: 0; transform: translateY(15px); } to { opacity: 1; transform: translateY(0); } }
+  </style>
+  <path d="M0 0 L0 175 C 150.0 197, 450.0 153, 600 175 C 750.0 197, 1050.0 153, 1200 175 C 1350.0 197, 1650.0 153, 1800 175 C 1950.0 197, 2250.0 153, 2400 175 L 2400 0 Z" fill="url(#fondo)" opacity="0.45">
+    <animateTransform attributeName="transform" type="translate" from="0 0" to="-600 0" dur="8s" repeatCount="indefinite"/>
   </path>
-  <g opacity="0">
-    <animate attributeName="opacity" from="0" to="1" dur="1.2s" fill="freeze"/>
-    <animateTransform attributeName="transform" type="translate" from="0 20" to="0 0" dur="1.2s" fill="freeze"/>
-    <text x="600" y="95" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="64" font-weight="800" fill="#ffffff">Ali David Morón</text>
-  </g>
-  <g opacity="0">
-    <animate attributeName="opacity" from="0" to="1" dur="1.2s" begin="0.5s" fill="freeze"/>
-    <text x="600" y="140" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="26" font-weight="600" fill="#f3e6ff">DJ Crossover | Ingeniería de Sonido</text>
-  </g>
+  <path d="M0 0 L0 160 C 200.0 178, 600.0 142, 800 160 C 1000.0 178, 1400.0 142, 1600 160 C 1800.0 178, 2200.0 142, 2400 160 L 2400 0 Z" fill="url(#fondo)">
+    <animateTransform attributeName="transform" type="translate" from="-800 0" to="0 0" dur="12s" repeatCount="indefinite"/>
+  </path>
+
+  <!-- ===== TEXTO: aquí cambias tu nombre y el subtítulo ===== -->
+  <text x="600" y="90" text-anchor="middle" class="nombre">Ali David Morón</text>
+  <text x="600" y="132" text-anchor="middle" class="sub">DJ Crossover | Ingeniería de Sonido</text>
 </svg>

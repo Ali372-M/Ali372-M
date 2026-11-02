@@ -5,7 +5,10 @@
       <stop offset="100%" stop-color="#7F00FF"/>
     </linearGradient>
   </defs>
-  <path d="M0 40 C 150 10, 450 70, 600 40 S 1050 10, 1200 40 S 1650 70, 1800 40 S 2250 10, 2400 40 L 2400 120 L 0 120 Z" fill="url(#fondo)">
-    <animateTransform attributeName="transform" type="translate" from="0 0" to="-1200 0" dur="9s" repeatCount="indefinite"/>
+  <path d="M0 120 L0 45 C 150.0 27, 450.0 63, 600 45 C 750.0 27, 1050.0 63, 1200 45 C 1350.0 27, 1650.0 63, 1800 45 C 1950.0 27, 2250.0 63, 2400 45 L 2400 120 Z" fill="url(#fondo)" opacity="0.45">
+    <animateTransform attributeName="transform" type="translate" from="-600 0" to="0 0" dur="8s" repeatCount="indefinite"/>
+  </path>
+  <path d="M0 120 L0 60 C 200.0 46, 600.0 74, 800 60 C 1000.0 46, 1400.0 74, 1600 60 C 1800.0 46, 2200.0 74, 2400 60 L 2400 120 Z" fill="url(#fondo)">
+    <animateTransform attributeName="transform" type="translate" from="0 0" to="-800 0" dur="12s" repeatCount="indefinite"/>
   </path>
 </svg>
