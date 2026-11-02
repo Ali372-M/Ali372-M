@@ -1,17 +1,26 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="230" viewBox="0 0 1200 230">
   <defs>
     <linearGradient id="fondo" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#7F00FF"/>
-      <stop offset="100%" stop-color="#E100FF"/>
+      <stop offset="0%" stop-color="#7F00FF"><animate attributeName="stop-color" values="#7F00FF;#B000FF;#7F00FF" dur="6s" repeatCount="indefinite"/></stop>
+      <stop offset="100%" stop-color="#E100FF"><animate attributeName="stop-color" values="#E100FF;#FF4FD8;#E100FF" dur="6s" repeatCount="indefinite"/></stop>
     </linearGradient>
   </defs>
-  <style>
-    .nombre { font: 800 64px 'Segoe UI', Helvetica, Arial, sans-serif; fill: #fff; animation: aparecer 1.2s ease-out both; }
-    .sub { font: 600 26px 'Segoe UI', Helvetica, Arial, sans-serif; fill: #f3e6ff; animation: aparecer 1.2s ease-out 0.4s both; }
-    @keyframes aparecer { from { opacity: 0; } to { opacity: 1; } }
-  </style>
-  <rect width="1200" height="220" fill="url(#fondo)"/>
-  <path d="M0 175 C 300 215, 600 140, 900 170 S 1200 190, 1200 190 L 1200 220 L 0 220 Z" fill="#0d1117"/>
-  <text x="600" y="95" text-anchor="middle" class="nombre">Ali David Morón</text>
-  <text x="600" y="140" text-anchor="middle" class="sub">DJ Crossover | Ingeniería de Sonido</text>
+  <rect width="1200" height="230" fill="url(#fondo)"/>
+  <g opacity="0.35">
+    <path d="M0 180 C 150.0 158, 450.0 202, 600 180 C 750.0 158, 1050.0 202, 1200 180 C 1350.0 158, 1650.0 202, 1800 180 C 1950.0 158, 2250.0 202, 2400 180 L 2400 260 L 0 260 Z" fill="#0d1117">
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="-600 0" dur="7s" repeatCount="indefinite"/>
+    </path>
+  </g>
+  <path d="M0 192 C 200.0 176, 600.0 208, 800 192 C 1000.0 176, 1400.0 208, 1600 192 C 1800.0 176, 2200.0 208, 2400 192 L 2400 260 L 0 260 Z" fill="#0d1117">
+    <animateTransform attributeName="transform" type="translate" from="-800 0" to="0 0" dur="10s" repeatCount="indefinite"/>
+  </path>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="1.2s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" from="0 20" to="0 0" dur="1.2s" fill="freeze"/>
+    <text x="600" y="95" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="64" font-weight="800" fill="#ffffff">Ali David Morón</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="1.2s" begin="0.5s" fill="freeze"/>
+    <text x="600" y="140" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="26" font-weight="600" fill="#f3e6ff">DJ Crossover | Ingeniería de Sonido</text>
+  </g>
 </svg>

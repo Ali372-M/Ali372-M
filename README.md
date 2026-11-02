@@ -2,7 +2,7 @@
 
 <a href="#"><img src="assets/banner.svg" alt="Ali David Morón" width="100%"/></a>
 
-<a href="#"><img src="assets/frases.svg" alt="Frases" width="600"/></a>
+<a href="#"><img src="assets/frases.svg" alt="Frases" width="640"/></a>
 
 <br/>
 
