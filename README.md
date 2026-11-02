@@ -6,9 +6,9 @@
 
 <br/>
 
-![DJ](https://img.shields.io/badge/DJ-Crossover-7F00FF?style=for-the-badge&logo=applemusic&logoColor=white)
-![3AM](https://img.shields.io/badge/3AM-Trap%20Music-000000?style=for-the-badge&logo=soundcloud&logoColor=white)
-![SoundWave](https://img.shields.io/badge/SoundWave-.com.co-E100FF?style=for-the-badge)
+<a href="https://soundcloud.com/david-moron-718731793/popular-tracks"><img src="assets/dj.svg" alt="DJ Crossover" height="46"/></a>
+<img src="assets/3am.svg" alt="3AM Trap Music" height="46"/>
+<a href="https://soundwave.com.co"><img src="assets/soundwave.svg" alt="SoundWave.com.co" height="46"/></a>
 
 </div>
 
@@ -60,9 +60,9 @@ graph TD
 
 <div align="center">
 
-![REAPER](https://img.shields.io/badge/REAPER-Producción-1E1E1E?style=for-the-badge)
-![Serato DJ Pro](https://img.shields.io/badge/Serato%20DJ%20Pro-Sets-00A6FF?style=for-the-badge)
-![Mp3tag](https://img.shields.io/badge/Mp3tag-Metadatos-4A90E2?style=for-the-badge)
+<img src="assets/reaper.svg" alt="REAPER" height="46"/>
+<img src="assets/serato.svg" alt="Serato DJ Pro" height="46"/>
+<img src="assets/mp3tag.svg" alt="Mp3tag" height="46"/>
 
 </div>
 
@@ -70,12 +70,12 @@ graph TD
 
 <div align="center">
 
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<img src="assets/vscode.svg" alt="VS Code" height="46"/>
+<img src="assets/html.svg" alt="HTML" height="46"/>
+<img src="assets/css.svg" alt="CSS" height="46"/>
+<img src="assets/python.svg" alt="Python" height="46"/>
+<img src="assets/php.svg" alt="PHP" height="46"/>
+<img src="assets/git.svg" alt="Git" height="46"/>
 
 </div>
 
@@ -85,10 +85,10 @@ graph TD
 
 <div align="center">
 
-[![SoundWave](https://img.shields.io/badge/Visita-SoundWave.com.co-E100FF?style=for-the-badge)](https://soundwave.com.co)
-[![SoundCloud](https://img.shields.io/badge/SoundCloud-Escúchame-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/david-moron-718731793/popular-tracks)
-[![Instagram](https://img.shields.io/badge/Instagram-davidmoron__372-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/davidmoron_372)
-[![GitHub](https://img.shields.io/badge/GitHub-Ali372--M-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ali372-M)
+<a href="https://soundwave.com.co"><img src="assets/web.svg" alt="SoundWave.com.co" height="46"/></a>
+<a href="https://soundcloud.com/david-moron-718731793/popular-tracks"><img src="assets/soundcloud.svg" alt="SoundCloud" height="46"/></a>
+<a href="https://www.instagram.com/davidmoron_372"><img src="assets/instagram.svg" alt="Instagram" height="46"/></a>
+<a href="https://github.com/Ali372-M"><img src="assets/github.svg" alt="GitHub" height="46"/></a>
 
 <br/>
 
