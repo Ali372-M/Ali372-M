@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="#"><img src="assets/banner.svg" alt="Ali David Morón" width="100%"/></a>
+<a href="#"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:E100FF&height=200&section=header&text=Ali%20David%20Mor%C3%B3n&fontSize=50&fontColor=ffffff&desc=DJ%20Crossover%20%7C%20Ingenier%C3%ADa%20de%20Sonido&descAlignY=65&animation=fadeIn" alt="Ali David Morón" width="100%"/></a>
 
 <a href="#"><img src="assets/frases.svg" alt="Frases" width="640"/></a>
 
@@ -94,6 +94,6 @@ graph TD
 
 **Hecho por DeiVid 🎶**
 
-<a href="#"><img src="assets/cierre.svg" alt="" width="100%"/></a>
+<a href="#"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:E100FF,100:7F00FF&height=120&section=footer" alt="" width="100%"/></a>
 
 </div>
