@@ -6,8 +6,8 @@
 
 <br/>
 
-<a href="https://soundcloud.com/david-moron-718731793/popular-tracks"><img src="assets/dj.svg" alt="DJ Crossover" height="46"/></a>
-<img src="assets/3am.svg" alt="3AM Trap Music" height="46"/>
+<a href="https://www.youtube.com/@deejaymoron4573"><img src="assets/dj.svg" alt="DJ Crossover" height="46"/></a>
+<a href="https://open.spotify.com/intl-es/track/6ikLPFPOjLuu0AuHZnmK58"><img src="assets/3am.svg" alt="3AM Trap Music" height="46"/></a>
 <a href="https://soundwave.com.co"><img src="assets/soundwave.svg" alt="SoundWave.com.co" height="46"/></a>
 
 </div>
@@ -53,16 +53,6 @@ graph TD
 | 🔥 **3AM Trap Music** | Grupo musical | Integrante |
 | 🌐 **SoundWave.com.co** | Plataforma de música para DJs | Owner |
 | 🎓 **Ingeniería de Sonido** | Mi carrera universitaria | Estudiante |
-
----
-
-## 🎵 Escucha a 3AM Trap Music
-
-<div align="center">
-
-<a href="https://open.spotify.com/intl-es/track/6ikLPFPOjLuu0AuHZnmK58"><img src="assets/spotify.svg" alt="Escúchala en Spotify" height="46"/></a>
-
-</div>
 
 ---
 
