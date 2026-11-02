@@ -49,7 +49,7 @@ graph TD
 
 | Proyecto | Qué es | Mi rol |
 | :---: | --- | :---: |
-| 🎧 **DJ Crossover** | Sets que mezclan todos los géneros | DJ |
+| 🎧 **DJ Crossover** | Variadito para que se lo gozen | DJ |
 | 🔥 **3AM Trap Music** | Grupo musical | Integrante |
 | 🌐 **SoundWave.com.co** | Plataforma de música para DJs | Owner |
 | 🎓 **Ingeniería de Sonido** | Mi carrera universitaria | Estudiante |
