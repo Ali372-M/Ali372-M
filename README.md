@@ -8,7 +8,7 @@
 
 ![DJ](https://img.shields.io/badge/DJ-Crossover-7F00FF?style=for-the-badge&logo=applemusic&logoColor=white)
 ![3AM](https://img.shields.io/badge/3AM-Trap%20Music-000000?style=for-the-badge&logo=soundcloud&logoColor=white)
-![SoundWave](https://img.shields.io/badge/SoundWave-.com.co-E100FF?style=for-the-badge&logo=googlechrome&logoColor=white)
+![SoundWave](https://img.shields.io/badge/SoundWave-.com.co-E100FF?style=for-the-badge)
 
 </div>
 
@@ -60,8 +60,16 @@ graph TD
 
 <div align="center">
 
-![REAPER](https://img.shields.io/badge/REAPER-DAW-1E1E1E?style=for-the-badge&logo=audacity&logoColor=white)
-![Mp3tag](https://img.shields.io/badge/Mp3tag-Metadatos-4A90E2?style=for-the-badge&logo=musicbrainz&logoColor=white)
+![REAPER](https://img.shields.io/badge/REAPER-Producción-1E1E1E?style=for-the-badge)
+![Serato DJ Pro](https://img.shields.io/badge/Serato%20DJ%20Pro-Sets-00A6FF?style=for-the-badge)
+![Mp3tag](https://img.shields.io/badge/Mp3tag-Metadatos-4A90E2?style=for-the-badge)
+
+</div>
+
+## 📚 Aprendiendo
+
+<div align="center">
+
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -77,7 +85,9 @@ graph TD
 
 <div align="center">
 
-[![SoundWave](https://img.shields.io/badge/Visita-SoundWave.com.co-E100FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://soundwave.com.co)
+[![SoundWave](https://img.shields.io/badge/Visita-SoundWave.com.co-E100FF?style=for-the-badge)](https://soundwave.com.co)
+[![SoundCloud](https://img.shields.io/badge/SoundCloud-Escúchame-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/david-moron-718731793/popular-tracks)
+[![Instagram](https://img.shields.io/badge/Instagram-davidmoron__372-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/davidmoron_372)
 [![GitHub](https://img.shields.io/badge/GitHub-Ali372--M-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ali372-M)
 
 <br/>
