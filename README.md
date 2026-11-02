@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:E100FF&height=200&section=header&text=Ali%20David%20Moron&fontSize=50&fontColor=ffffff&desc=DJ%20Crossover%20%7C%20Ingenier%C3%ADa%20de%20Sonido&descAlignY=65&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:E100FF&height=200&section=header&text=Ali%20David%20Morón&fontSize=50&fontColor=ffffff&desc=DJ%20Crossover%20%7C%20Ingenier%C3%ADa%20de%20Sonido&descAlignY=65&animation=fadeIn" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=B44CFF&center=true&vCenter=true&width=600&lines=DJ+Crossover+%F0%9F%8E%A7;Integrante+de+3AM+Trap+Music+%F0%9F%94%A5;Owner+de+SoundWave.com.co+%F0%9F%8C%90;Estudiante+de+Ingenier%C3%ADa+de+Sonido+%F0%9F%8E%93" alt="Typing SVG" />
 
