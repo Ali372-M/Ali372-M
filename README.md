@@ -56,6 +56,16 @@ graph TD
 
 ---
 
+## 🎵 Escucha a 3AM Trap Music
+
+<div align="center">
+
+<a href="https://open.spotify.com/intl-es/track/6ikLPFPOjLuu0AuHZnmK58"><img src="assets/spotify.svg" alt="Escúchala en Spotify" height="46"/></a>
+
+</div>
+
+---
+
 ## 🛠️ Herramientas que uso
 
 <div align="center">
