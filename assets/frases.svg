@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="40" viewBox="0 0 600 40">
+  <style>
+    text { font: 600 22px 'Fira Code', Consolas, monospace; fill: #B44CFF; opacity: 0; animation: ciclo 12s infinite; }
+    .f2 { animation-delay: 3s; }
+    .f3 { animation-delay: 6s; }
+    .f4 { animation-delay: 9s; }
+    @keyframes ciclo { 0% { opacity: 0; } 4% { opacity: 1; } 22% { opacity: 1; } 26% { opacity: 0; } 100% { opacity: 0; } }
+  </style>
+  <text x="300" y="27" text-anchor="middle">DJ Crossover 🎧</text>
+  <text x="300" y="27" text-anchor="middle" class="f2">Integrante de 3AM Trap Music 🔥</text>
+  <text x="300" y="27" text-anchor="middle" class="f3">Owner de SoundWave.com.co 🌐</text>
+  <text x="300" y="27" text-anchor="middle" class="f4">Estudiante de Ingeniería de Sonido 🎓</text>
+</svg>
